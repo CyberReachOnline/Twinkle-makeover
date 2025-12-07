@@ -59,18 +59,6 @@ export const INITIAL_SERVICES: Service[] = [
 
 export const INITIAL_PORTFOLIO: PortfolioItem[] = [
     {
-        id: '1',
-        category: 'bridal',
-        imageUrl: '/portfolio/bridal-blue-1.png',
-        title: 'Blue Bridal Elegance'
-    },
-    {
-        id: '2',
-        category: 'bridal',
-        imageUrl: '/portfolio/bridal-blue-2.png',
-        title: 'Bridal Glam'
-    },
-    {
         id: '3',
         category: 'bridal',
         imageUrl: '/portfolio/traditional-saree.png',
