@@ -7,7 +7,7 @@ const PortfolioPage: React.FC = () => {
         <>
             <Helmet>
                 <title>Portfolio | Twinkle Makeover Makeup Artist</title>
-                <meta name="description" content="Browse our portfolio of bridal, editorial, and special occasion makeup." />
+                <meta name="description" content="Browse our portfolio of bridal, editorial, and special occasion makeup by Twinkle Makeover, Bangalore's premier makeup artist." />
             </Helmet>
 
             <div className="bg-white dark:bg-gray-900 py-12 md:py-20">

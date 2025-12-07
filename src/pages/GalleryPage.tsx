@@ -9,7 +9,7 @@ const GalleryPage: React.FC = () => {
         <>
             <Helmet>
                 <title>Gallery | Twinkle Makeover Makeup Artist</title>
-                <meta name="description" content="Behind the scenes and studio moments." />
+                <meta name="description" content="Behind the scenes and studio moments from Twinkle Makeover, Bangalore's premier makeup artist studio." />
             </Helmet>
 
             <div className="bg-white dark:bg-gray-900 py-12 md:py-20">

@@ -17,7 +17,7 @@ const ContactPage: React.FC = () => {
         <>
             <Helmet>
                 <title>Contact & Booking | Twinkle Makeover Makeup Artist</title>
-                <meta name="description" content="Book your appointment or get in touch with us." />
+                <meta name="description" content="Book your makeup appointment in Bangalore or get in touch with Twinkle Makeover. Professional makeup services across Bangalore, India." />
             </Helmet>
 
             <div className="bg-gray-50 dark:bg-gray-900 py-12 md:py-20">

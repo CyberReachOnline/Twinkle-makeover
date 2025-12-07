@@ -15,7 +15,7 @@ const Home: React.FC = () => {
         <>
             <Helmet>
                 <title>Twinkle Makeover | Professional Makeup Artist</title>
-                <meta name="description" content="Professional makeup artist specializing in bridal, editorial, and event makeup. Book your appointment today." />
+                <meta name="description" content="Professional makeup artist in Bangalore, India specializing in bridal, editorial, and event makeup. Book your appointment today." />
             </Helmet>
 
             <Hero />

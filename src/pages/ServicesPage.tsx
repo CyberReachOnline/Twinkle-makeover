@@ -10,7 +10,7 @@ const ServicesPage: React.FC = () => {
         <>
             <Helmet>
                 <title>Services | Twinkle Makeover Makeup Artist</title>
-                <meta name="description" content="Explore our makeup services including bridal, party glam, and editorial looks." />
+                <meta name="description" content="Explore our makeup services in Bangalore including bridal, party glam, and editorial looks. Professional makeup artistry by Twinkle Makeover." />
             </Helmet>
 
             <div className="bg-gray-50 dark:bg-gray-800/50 py-12 md:py-20">
